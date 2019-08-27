@@ -126,5 +126,3 @@ database = pd.DataFrame({
 'int_price' : pricer,       
 })
 print(database.info())
-
-#zmena v kodu    
